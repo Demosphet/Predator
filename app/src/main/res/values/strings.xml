@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Predator</string>
+    <string name="loginPageHeading">Predator</string>
+    <string name="loginPageLogIn">Log In</string>
+    <string name="loginPageButton" >Log In</string>
+    <string name="loginPageCreateAnAccountText">Create an Account</string>
 </resources>
